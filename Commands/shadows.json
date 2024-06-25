@@ -1,0 +1,193 @@
+[
+	{
+		"name": "Jack O'Lantern, Crypt-dwelling Pyromaniac",
+		"hp": "100",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/5/5f/Pyrojackoriginal.jpg",
+		"elements": "Weak: Gun, Ice, Wind \n Drain: Fire",
+		"skills": "Agi"
+	},
+
+	{
+		"name": "Pixie, Beguiling Girl",
+		"hp": "86",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/f/ff/PixieSMT.jpg",
+		"elements": "Weak: Gun, Ice, Curse \n Strong: Electric, Bless",
+		"skills": "Dia"
+	},
+
+	{
+		"name": "Incubus, Bedside Brute",
+		"hp": "103",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/3/3f/Incubus2.jpg",
+		"elements": "Weak: Gun, Bless \n Strong: Electric",
+		"skills": "Life Drain \n Ice Wall"
+	},
+
+	{
+		"name": "Mandrake, Gallows Flower",
+		"hp": "98",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/2/20/Mandrake_%282%29.jpg",
+		"elements": "Weak: Fire \n Strong: Electric",
+		"skills": "Pulinpa"
+	},
+
+	{
+		"name": "Bicorn, Dirty Two-horned Beast",
+		"hp": "110",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/4/48/KWBicorn.jpg",
+		"elements": "Weak: Electric \n Strong: Curse",
+		"skills": "Lunge"
+	},
+
+	{
+		"name": "Agathion, Apprentice in a Jug",
+		"hp": "150",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/2/24/Agathion.png",
+		"elements": "Weak: Wind \n Strong: Gun, Electric",
+		"skills": "Zio \n Rakukaja"
+	},
+
+	{
+		"name": "Berith, Brutal Calvaryman",
+		"hp": "211",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e4/BerithSMT.jpg",
+		"elements": "Weak: Ice \n Strong: Fire \n Null: Gun",
+		"skills": "Cleave"
+	},
+
+	{
+		"name": "Silky, Troublesome Maid",
+		"hp": "142",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0e/Silky.jpg",
+		"elements": "Fire: Weak, Ice: Strong, \n Electric: Weak",
+		"skills": "Dormina \n Bufu"
+	},
+
+	{
+		"name": "Kelpie, Mad Marsh Horse",
+		"hp": "128",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/3/37/Kelpie.jpg",
+		"elements": "Weak: Electric \n Strong: Ice",
+		"skills": "Garu \n Summon (Kelpie)"
+	},
+
+	{
+		"name": "Succubus, Twilight Prostitute",
+		"hp": "148",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/2/26/Succubus2.JPG",
+		"elements": "Weak: Gun, Bless \n Strong: Fire \n Null: Curse",
+		"skills": "Marin Karin"
+	},
+
+	{
+		"name": "Andras, Menacing Owlman",
+		"hp": "175",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/9/95/AndrasSMT.jpg",
+		"elements": "Weak: Gun, Fire \n Strong: Ice",
+		"skills": "Bufu \n Rakunda"
+	},
+
+	{
+		"name": "Mokoi, Night-walking Warrior",
+		"hp": "230",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/0/08/Mokoi.png",
+		"elements": "Weak: Wind \n Strong: Electric",
+		"skills": "Tarukaja"
+	},
+
+	{
+		"name": "Asparas, Waterside Nymph",
+		"hp": "145",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/6/60/ApsarasP4.png",
+		"elements": "Weak: Electric \n Strong: Ice",
+		"skills": "Rebellion, Fire Wall, \n Ice Wall, Elec Wall, \n Wind Wall"
+	},
+
+	{
+		"name": "Hua-Po, Girl of the Hanging Tree",
+		"hp": "169",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/2/2e/HuaPo.jpg",
+		"elements": "Weak: Gun, Ice \n Repel: Fire",
+		"skills": "Agi"
+	},
+
+	{
+		"name": "Koropokguru, Leafy Old Man",
+		"hp": "188",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9a/Koropokkuru.jpg",
+		"elements": "Weak: Fire \n Strong: Gun, Ice, Wind",
+		"skills": "Bufu \n Sukunda"
+	},
+
+	{
+		"name": "Onmoraki, Corpse Bird",
+		"hp": "206",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/5/54/Onmoraki.jpg",
+		"elements": "Weak: Gun, Bless \n Strong: Fire \n Curse: Null",
+		"skills": "Mudo"
+	},
+
+	{
+		"name": "Ippon-Datara, Embittered Blacksmith",
+		"hp": "365",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/8/8a/Ippondatara.jpg",
+		"elements": "Weak: Ice \n Strong: Fire, Bless, Curse \n Repel: Wind",
+		"skills": "Sledgehammer"
+	},
+
+	{
+		"name": "Nue, Night Chimera",
+		"hp": "312",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/4/4b/159_Nue.jpg",
+		"elements": "Weak: Fire \n Strong: Ice \n Curse: Null",
+		"skills": "Maeiha \n Skull Cracker"
+	},
+
+	{
+		"name": "Koppa Tengu, Foolish Monk",
+		"hp": "168",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/7/70/Koppa_Tengu_-_Nocturne.jpg",
+		"elements": "Weak: Ice, Bless \n Strong: Wind",
+		"skills": "Sukakaja \n Taunt"
+	},
+
+	{
+		"name": "Jack Frost, Mocking Snowman",
+		"hp": "214",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e3/Smtjack.png",
+		"elements": "Weak: Fire \n Ice: Null",
+		"skills": "Mabufu"
+	},
+
+	{
+		"name": "Makami, Hunting Wolf Spirit",
+		"hp": "305",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/7/71/Makami_-_Nocturne.jpg",
+		"elements": "Weak: Electric \n Strong: Wind, Nuclear \n Null: Bless",
+		"skills": "Double Fangs \n Mafrei"
+	},
+
+	{
+		"name": "Inugami, Possessive Dog Ghost",
+		"hp": "223",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1a/478_-_Inugami.jpg",
+		"elements": "Weak: Wind \n Null: Fire, Curse",
+		"skills": "Giant Slice, \n Pulinpa, Tarukaja"
+	},
+
+	{
+		"name": "Cerberus, Guard Dog of Hades",
+		"hp": "860",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/e/ee/Smtcerby.png",
+		"elements": "Weak: Ice \n Strong: Nuclear \n Drain: Fire",
+		"skills": "Agidyne, Maragidyne, \n Megaton Raid, High Counter, \n Burn Boost"
+	},
+
+	{
+		"name": "Lilith, Harlot of Desire",
+		"hp": "650",
+		"thumbnail": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a0/NLilith.jpg",
+		"elements": "Weak: Fire \n Repel: Ice \n Null: Curse",
+		"skills": "Bufudyne, Mabufudyne, \n Maragidyne, Magarudyne, \n Dekaja, Dekunda, Spirit Drain"
+	}
+]

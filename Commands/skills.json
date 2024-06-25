@@ -1,0 +1,856 @@
+[
+	{
+		"name": "Lunge",
+		"command": "lunge",
+		"HP": "60",
+		"type": "Light",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Cleave",
+		"command": "cleave",
+		"HP": "60",
+		"type": "Light",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Giant SlIce",
+		"command": "giant-slIce",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Assault Dive",
+		"command": "assault-dive",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Megaton Raid",
+		"command": "megaton-raid",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Sword Dance",
+		"command": "sword-dance",
+		"HP": "140",
+		"type": "Colossal",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Brave Blade",
+		"command": "brave-blade",
+		"HP": "140",
+		"type": "Colossal",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "God's Hand",
+		"command": "gods-hand",
+		"HP": "140",
+		"type": "Colossal",
+		"element": "Physical",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Vajra Blast",
+		"command": "vajra-blast",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Physical",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Vicious Strike",
+		"command": "vicious-strike",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Physical",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Heat Wave",
+		"command": "heat-wave",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Physical",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Vorpal Blade",
+		"command": "vorpal-blade",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Physical",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Gigantomachia",
+		"command": "gigantomachia",
+		"HP": "140",
+		"type": "Colossal",
+		"element": "Physical",
+		"area": "all foes"
+	},
+
+	{
+		"name": "Snap",
+		"command": "snap",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Gun",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "One-shot Kill",
+		"command": "one-shot-kill",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Gun",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Riot Gun",
+		"command": "riot-gun",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Gun",
+		"area": "all foes"
+	},
+	 
+	{
+		"name": "Agi",
+		"command": "agi",
+		"HP": "60",
+		"type": "Light",
+		"element": "Fire",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Agilao",
+		"command": "agilao",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Fire",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Agidyne",
+		"command": "agidyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Fire",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Inferno",
+		"command": "inferno",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Fire",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Maragi",
+		"command": "maragi",
+		"HP": "60",
+		"type": "Light",
+		"element": "Fire",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Maragion",
+		"command": "maragion",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Fire",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Maragidyne",
+		"command": "maragidyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Fire",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Blazing Hell",
+		"command": "blazing-hell",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Fire",
+		"area": "all foes"
+	},
+	
+	{
+		"name": "Bufu",
+		"command": "bufu",
+		"HP": "60",
+		"type": "Light",
+		"element": "Ice",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Bufula",
+		"command": "bufula",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Ice",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Bufudyne",
+		"command": "bufudyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Ice",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Diamond Dust",
+		"command": "diamond-dust",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Ice",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Mabufu",
+		"command": "mabufu",
+		"HP": "60",
+		"type": "Light",
+		"element": "Ice",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mabufula",
+		"command": "mabufula",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Ice",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mabufudyne",
+		"command": "mabufudyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Ice",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Ice Age",
+		"command": "ice-age",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Ice",
+		"area": "all foes"
+	},
+
+	{
+		"name": "Zio",
+		"command": "zio",
+		"HP": "60",
+		"type": "Light",
+		"element": "Electric",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Zionga",
+		"command": "zionga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Electric",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Ziodyne",
+		"command": "ziodyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Electric",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Thunder Reign",
+		"command": "thunder-reign",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Electric",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Mazio",
+		"command": "mazio",
+		"HP": "60",
+		"type": "Light",
+		"element": "Electric",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mazionga",
+		"command": "mazionga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Electric",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Maziodyne",
+		"command": "maragidyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Electric",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Wild Thunder",
+		"command": "wild-thunder",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Electric",
+		"area": "all foes"
+	},
+	 
+	{
+		"name": "Garu",
+		"command": "garu",
+		"HP": "60",
+		"type": "Light",
+		"element": "Wind",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Garula",
+		"command": "garula",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Wind",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Garudyne",
+		"command": "garudyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Wind",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Panta Rhei",
+		"command": "panta-rhei",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Wind",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Magaru",
+		"command": "magaru",
+		"HP": "60",
+		"type": "Light",
+		"element": "Wind",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Magarula",
+		"command": "magarula",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Wind",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Magarudyne",
+		"command": "magarudyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Wind",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Vacuum Wave",
+		"command": "vacuum-wave",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Wind",
+		"area": "all foes"
+	},
+	
+	{
+		"name": "Psi",
+		"command": "psi",
+		"HP": "60",
+		"type": "Light",
+		"element": "Psy",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Psio",
+		"command": "psio",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Psy",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Psiodyne",
+		"command": "psiodyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Psy",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Psycho Force",
+		"command": "psycho-force",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Psy",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Mapsi",
+		"command": "mapsi",
+		"HP": "60",
+		"type": "Light",
+		"element": "Psy",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mapsio",
+		"command": "mapsio",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Psy",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mapsiodyne",
+		"command": "mapsiodyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Psy",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Psycho Blast",
+		"command": "psycho-blast",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Psy",
+		"area": "all foes"
+	},
+	
+	{
+		"name": "Frei",
+		"command": "frei",
+		"HP": "60",
+		"type": "Light",
+		"element": "Nuclear",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Freila",
+		"command": "freila",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Nuclear",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Freidyne",
+		"command": "freidyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Nuclear",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Atomic Flare",
+		"command": "atomic-flare",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Nuclear",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Mafrei",
+		"command": "mafrei",
+		"HP": "60",
+		"type": "Light",
+		"element": "Nuclear",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mafreila",
+		"command": "mafreila",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Nuclear",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Mafreidyne",
+		"command": "mafreidyne",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Nuclear",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Cosmic Flare",
+		"command": "cosmic-flare",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Nuclear",
+		"area": "all foes"
+	},
+	
+	{
+		"name": "Kouha",
+		"command": "kouha",
+		"HP": "60",
+		"type": "Light",
+		"element": "Bless",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Kouga",
+		"command": "kouga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Bless",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Kougaon",
+		"command": "kougaon",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Bless",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Makouha",
+		"command": "makouha",
+		"HP": "60",
+		"type": "Light",
+		"element": "Bless",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Makouga",
+		"command": "makouga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Bless",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Makougaon",
+		"command": "makougaon",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Bless",
+		"area": "all foes"
+	},
+
+	{
+		"name": "Eiha",
+		"command": "eiha",
+		"HP": "60",
+		"type": "Light",
+		"element": "Curse",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Eiga",
+		"command": "eiga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Curse",
+		"area": "1 foe"
+	},
+	   
+	{
+		"name": "Eigaon",
+		"command": "eigaon",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Curse",
+		"area": "1 foe"
+	},
+
+	{
+		"name": "Maeiha",
+		"command": "maeiha",
+		"HP": "60",
+		"type": "Light",
+		"element": "Curse",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Maeiga",
+		"command": "maeiga",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Curse",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Maeigaon",
+		"command": "maeigaon",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Curse",
+		"area": "all foes"
+	},
+
+	{
+		"name": "Megido",
+		"command": "megido",
+		"HP": "80",
+		"type": "Medium",
+		"element": "Almighty",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Megidola",
+		"command": "megidola",
+		"HP": "100",
+		"type": "Heavy",
+		"element": "Almighty",
+		"area": "all foes"
+	},
+	   
+	{
+		"name": "Megidolaon",
+		"command": "megidolaon",
+		"HP": "120",
+		"type": "Severe",
+		"element": "Almighty",
+		"area": "all foes"
+	},
+
+	{
+		"name": "Dia",
+		"command": "dia",
+		"HP": "100",
+		"type": "",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Diarama",
+		"command": "diarama",
+		"HP": "175",
+		"type": "",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Diarahan",
+		"command": "diarahan",
+		"HP": "all",
+		"type": "",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+
+	{
+		"name": "Recarm",
+		"command": "recarm",
+		"HP": "50%",
+		"type": "",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+
+	{
+		"name": "Samarecarm",
+		"command": "samarecarm",
+		"HP": "all",
+		"type": "",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Baisudi",
+		"command": "baisudi",
+		"HP": "",
+		"type": "Burn/Freeze/Shock",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Patra",
+		"command": "patra",
+		"HP": "",
+		"type": "Dizzy/Forget/Sleep/Hunger",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Energy Drop",
+		"command": "energy-drop",
+		"HP": "",
+		"type": "Confuse/Fear/Despair/Rage/Brainwash",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+	   
+	{
+		"name": "Amrita Drop",
+		"command": "amrita-drop",
+		"HP": "",
+		"type": "all ailments (except special ones)",
+		"element": "Healing",
+		"area": "1 ally"
+	},
+
+	{
+		"name": "Media",
+		"command": "media",
+		"HP": "75",
+		"type": "",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Mediarama",
+		"command": "mediarama",
+		"HP": "150",
+		"type": "",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Mediarahan",
+		"command": "mediaharan",
+		"HP": "all",
+		"type": "",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Mabaisudi",
+		"command": "mabaisudi",
+		"HP": "",
+		"type": "Burn/Freeze/Shock",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Me Patra",
+		"command": "me-patra",
+		"HP": "",
+		"type": "Dizzy/Forget/Sleep/Hunger",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Energy Shower",
+		"command": "energy-shower",
+		"HP": "",
+		"type": "Confuse/Fear/Despair/Rage/Brainwash",
+		"element": "Healing",
+		"area": "all allies"
+	},
+	   
+	{
+		"name": "Amrita Shower",
+		"command": "amrita-shower",
+		"HP": "",
+		"type": "all ailments (except special ones)",
+		"element": "Healing",
+		"area": "all allies"
+	}
+]
